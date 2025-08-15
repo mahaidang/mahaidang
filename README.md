@@ -75,7 +75,7 @@ Check out my repositories below for detailed project implementations! 🚀
 ```
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,6 +84,7 @@ Check out my repositories below for detailed project implementations! 🚀
 </div>
 
 ---
+-->
 
 
 ## 📫 Let's Connect!
