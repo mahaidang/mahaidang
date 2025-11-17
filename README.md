@@ -56,7 +56,6 @@ Full-stack web application featuring:
 ## 📫 Let's Connect!
 
 **Email:** [haidang18101810@gmail.com](mailto:haidang18101810@gmail.com)  
-**Phone:** [0392207595](tel:+84392207595)  
 **GitHub:** [github.com/mahaidang](https://github.com/mahaidang)
 
 ---
