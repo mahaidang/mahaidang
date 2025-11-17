@@ -8,7 +8,7 @@ Passionate about building **RESTful APIs** with modern technologies. Currently s
 
 - 🎓 **Major**: Information Technology @ Ho Chi Minh City Open University
 - 📍 **Location**: Ho Chi Minh City, Vietnam
-- 💼 **Focus**: Backend Development & Microservices Architecture
+- 💼 **Focus**: Backend Development
 
 ---
 
