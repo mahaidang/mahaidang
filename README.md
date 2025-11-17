@@ -40,7 +40,7 @@ Advanced microservices architecture implementing:
 - **Sepay webhook** integration for payment processing
 - **Docker Compose** containerization
 
-### 🚌 [Public Transportation System](https://github.com/mahaidang/bus-route-system)
+### 🚌 [Public Transportation System](https://github.com/mahaidang/public-transport-system.git)
 
 **Tech Stack:** Java, Spring MVC, Spring Security, Hibernate, Thymeleaf, React, MySQL, Goong Maps API
 
