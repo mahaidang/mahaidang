@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-**Final-year Information Technology student** with hands-on **.NET backend experience** from a software development internship. Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, and Database fundamentals**. 
+**Final-year Information Technology student** with hands-on **.NET backend experience** from a software development internship.
 
-Passionate about building **scalable microservices and RESTful APIs** with modern technologies. Currently seeking **Backend Engineer** opportunities.
+Passionate about building **RESTful APIs** with modern technologies. Currently seeking **Backend Engineer** opportunities.
 
 - 🎓 **Major**: Information Technology @ Ho Chi Minh City Open University
 - 📍 **Location**: Ho Chi Minh City, Vietnam
