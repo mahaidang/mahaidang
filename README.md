@@ -53,29 +53,6 @@ Full-stack web application featuring:
 
 ---
 
-## 🎯 Core Competencies
-
-**Architecture & Design Patterns**
-- Microservices Architecture, CQRS & Event-Driven Design
-- Domain-Driven Design (DDD), Repository Pattern
-- SOLID Principles
-
-**Security & Authentication**
-- JWT Token Authentication, Role-Based Access Control (RBAC)
-- Spring Security, Input Validation & Sanitization
-
-**Database Management**
-- SQL Server, MySQL, MongoDB
-- Query Optimization & Indexing, Polyglot Persistence
-- Redis Caching Strategies
-
-**Development Practices**
-- RESTful API Design, gRPC Communication
-- Message Queue (RabbitMQ), Docker Containerization
-- Agile Scrum Methodology
-
----
-
 ## 📫 Let's Connect!
 
 **Email:** [haidang18101810@gmail.com](mailto:haidang18101810@gmail.com)  
