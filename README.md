@@ -12,7 +12,7 @@ Currently seeking **Backend Engineer** opportunities.
 
 - 🎓 **Major**: Information Technology @ Ho Chi Minh City Open University
 - 📍 **Location**: Ho Chi Minh City, Vietnam
-- 💼 **Focus**: Backend Development (.NET, Microservices)
+- 💼 **Focus**: Backend Development
 
 ---
 
