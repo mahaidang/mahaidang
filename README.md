@@ -1,6 +1,6 @@
 # Hi there, I'm Ma Hai Dang 👋
 
-## 🚀 About Me
+## About Me
 
 Final-year **Information Technology student** with hands-on experience in
 building **scalable .NET backend systems** through real project work and
@@ -10,39 +10,39 @@ I focus on **backend engineering**, designing clean APIs and applying
 **microservices architecture** in real-world scenarios.
 Currently seeking **Backend Engineer** opportunities.
 
-- 🎓 **Major**: Information Technology @ Ho Chi Minh City Open University
-- 📍 **Location**: Ho Chi Minh City, Vietnam
-- 💼 **Focus**: Backend Development
+- **Major**: Information Technology @ Ho Chi Minh City Open University
+- **Location**: Ho Chi Minh City, Vietnam
+- **Focus**: Backend Development
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Backend & Architecture
+### Backend & Architecture
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white)
 
-### 🗄️ Databases & Cache
+### Databases & Cache
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🧰 Tools
+### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🛒 ECommerce Microservices System
+### ECommerce Microservices System
 🔗 **Repository:** https://github.com/mahaidang/ecommerce.git  
 
 **Tech Stack:**  
