@@ -1,4 +1,4 @@
-# Hi there, I'm Ma Hai Dang 👋
+# Hi there, I'm Ma Hai Dang
 
 ## About Me
 
@@ -43,7 +43,7 @@ Currently seeking **Backend Engineer** opportunities.
 ## Featured Project
 
 ### ECommerce Microservices System
-🔗 **Repository:** https://github.com/mahaidang/ecommerce.git  
+**Repository:** https://github.com/mahaidang/ecommerce.git  
 
 **Tech Stack:**  
 .NET 8, YARP API Gateway, CQRS, MediatR, RabbitMQ (Saga),
@@ -62,13 +62,13 @@ consistency.
 - **Sepay webhook integration** with idempotent payment handling
 - **Docker Compose** for local development and deployment consistency
 
-📐 **System Architecture & Demo:** *(see repository documentation / Notion showcase)*
+**System Architecture & Demo:** *(see repository documentation / Notion showcase)*
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **Email:** haidang18101810@gmail.com
+- **Email:** mahaidang.dev@gmail.com
 - **GitHub:** https://github.com/mahaidang
 
 ---
