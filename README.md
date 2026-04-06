@@ -3,12 +3,10 @@
 ## About Me
 
 Final-year **Information Technology student** with hands-on experience in
-building **scalable .NET backend systems** through real project work and
-software development internship.
+building **scalable .NET backend systems** through real project work.
 
 I focus on **backend engineering**, designing clean APIs and applying
 **microservices architecture** in real-world scenarios.
-Currently seeking **Backend Engineer** opportunities.
 
 - **Major**: Information Technology @ Ho Chi Minh City Open University
 - **Location**: Ho Chi Minh City, Vietnam
