@@ -2,7 +2,7 @@
 
 ## About Me
 
-Final-year **Information Technology student** with hands-on experience in
+**Backend Developer** with hands-on experience
 building **scalable .NET backend systems** through real project work.
 
 I focus on **backend engineering**, designing clean APIs and applying
