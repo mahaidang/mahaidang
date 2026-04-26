@@ -60,7 +60,7 @@ consistency.
 - **Sepay webhook integration** with idempotent payment handling
 - **Docker Compose** for local development and deployment consistency
 
-**System Architecture & Demo:** *(see repository documentation / Notion showcase)*
+**System Architecture & Demo:** *(see repository documentation)*
 
 ---
 
